@@ -6,6 +6,8 @@ public class hello {
     // Mac user and windows user are happy to use commit
 
     // it is time to commit and push
+    // it was good day
+
 
 
 
